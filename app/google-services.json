@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435846008928",
+    "firebase_url": "https://parkingzilla-f0652.firebaseio.com",
+    "project_id": "parkingzilla-f0652",
+    "storage_bucket": "parkingzilla-f0652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435846008928:android:953ee2c92df9e1d3a07305",
+        "android_client_info": {
+          "package_name": "com.example.parkingzilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435846008928-uhhtpf1f6qm290sqd90maaeogj1v68t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkingzilla",
+            "certificate_hash": "4cda57ee9f2b1666b20ead27dee50e69c83332ff"
+          }
+        },
+        {
+          "client_id": "435846008928-4enh1k1pth5cfb7qhvfnvmcd49tmk26t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSbsFlcgVm8d-3VjydZH6RNtSwALFoqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435846008928-4enh1k1pth5cfb7qhvfnvmcd49tmk26t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
